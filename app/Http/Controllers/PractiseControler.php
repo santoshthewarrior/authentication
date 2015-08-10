@@ -3,6 +3,7 @@
 
 class PractiseController extends Controller{
 	public function index(){
-		echo "Lipa";
+		echo "I am a doctor";
 	}
+
 }
