@@ -3,7 +3,7 @@
 
 class PractiseController extends Controller{
 	public function index(){
-		echo "I am a doctor";
+		return view('index');
 	}
 
 }

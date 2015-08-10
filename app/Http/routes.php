@@ -21,3 +21,4 @@ Route::controllers([
 ]);
 
 Route::get('/practise', 'PractiseController@index');
+
